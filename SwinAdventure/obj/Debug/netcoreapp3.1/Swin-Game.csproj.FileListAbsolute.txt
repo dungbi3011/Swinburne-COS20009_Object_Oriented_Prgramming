@@ -1,0 +1,14 @@
+D:\zbi\OOP\Swin-Game\Swin-Game\bin\Debug\netcoreapp3.1\Swin-Game.exe
+D:\zbi\OOP\Swin-Game\Swin-Game\bin\Debug\netcoreapp3.1\Swin-Game.deps.json
+D:\zbi\OOP\Swin-Game\Swin-Game\bin\Debug\netcoreapp3.1\Swin-Game.runtimeconfig.json
+D:\zbi\OOP\Swin-Game\Swin-Game\bin\Debug\netcoreapp3.1\Swin-Game.runtimeconfig.dev.json
+D:\zbi\OOP\Swin-Game\Swin-Game\bin\Debug\netcoreapp3.1\Swin-Game.dll
+D:\zbi\OOP\Swin-Game\Swin-Game\bin\Debug\netcoreapp3.1\Swin-Game.pdb
+D:\zbi\OOP\Swin-Game\Swin-Game\obj\Debug\netcoreapp3.1\Swin-Game.GeneratedMSBuildEditorConfig.editorconfig
+D:\zbi\OOP\Swin-Game\Swin-Game\obj\Debug\netcoreapp3.1\Swin-Game.AssemblyInfoInputs.cache
+D:\zbi\OOP\Swin-Game\Swin-Game\obj\Debug\netcoreapp3.1\Swin-Game.AssemblyInfo.cs
+D:\zbi\OOP\Swin-Game\Swin-Game\obj\Debug\netcoreapp3.1\Swin-Game.csproj.CoreCompileInputs.cache
+D:\zbi\OOP\Swin-Game\Swin-Game\obj\Debug\netcoreapp3.1\Swin-Game.dll
+D:\zbi\OOP\Swin-Game\Swin-Game\obj\Debug\netcoreapp3.1\Swin-Game.pdb
+D:\zbi\OOP\Swin-Game\Swin-Game\obj\Debug\netcoreapp3.1\Swin-Game.genruntimeconfig.cache
+D:\zbi\OOP\Swin-Game\Swin-Game\obj\Debug\netcoreapp3.1\Swin-Game.csproj.AssemblyReference.cache

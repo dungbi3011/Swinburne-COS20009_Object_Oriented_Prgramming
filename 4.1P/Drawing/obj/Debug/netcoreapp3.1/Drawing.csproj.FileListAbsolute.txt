@@ -1,0 +1,5 @@
+D:\zbi\OOP\4.1P\Drawing\obj\Debug\netcoreapp3.1\Drawing.csproj.AssemblyReference.cache
+D:\zbi\OOP\4.1P\Drawing\obj\Debug\netcoreapp3.1\Drawing.GeneratedMSBuildEditorConfig.editorconfig
+D:\zbi\OOP\4.1P\Drawing\obj\Debug\netcoreapp3.1\Drawing.AssemblyInfoInputs.cache
+D:\zbi\OOP\4.1P\Drawing\obj\Debug\netcoreapp3.1\Drawing.AssemblyInfo.cs
+D:\zbi\OOP\4.1P\Drawing\obj\Debug\netcoreapp3.1\Drawing.csproj.CoreCompileInputs.cache

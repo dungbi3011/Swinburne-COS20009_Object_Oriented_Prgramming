@@ -1,0 +1,14 @@
+D:\zbi\OOP\1.2P\HelloWorld\bin\Debug\netcoreapp3.1\HelloWorld.exe
+D:\zbi\OOP\1.2P\HelloWorld\bin\Debug\netcoreapp3.1\HelloWorld.deps.json
+D:\zbi\OOP\1.2P\HelloWorld\bin\Debug\netcoreapp3.1\HelloWorld.runtimeconfig.json
+D:\zbi\OOP\1.2P\HelloWorld\bin\Debug\netcoreapp3.1\HelloWorld.runtimeconfig.dev.json
+D:\zbi\OOP\1.2P\HelloWorld\bin\Debug\netcoreapp3.1\HelloWorld.dll
+D:\zbi\OOP\1.2P\HelloWorld\bin\Debug\netcoreapp3.1\HelloWorld.pdb
+D:\zbi\OOP\1.2P\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.csproj.AssemblyReference.cache
+D:\zbi\OOP\1.2P\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+D:\zbi\OOP\1.2P\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.AssemblyInfoInputs.cache
+D:\zbi\OOP\1.2P\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.AssemblyInfo.cs
+D:\zbi\OOP\1.2P\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.csproj.CoreCompileInputs.cache
+D:\zbi\OOP\1.2P\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.dll
+D:\zbi\OOP\1.2P\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.pdb
+D:\zbi\OOP\1.2P\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.genruntimeconfig.cache

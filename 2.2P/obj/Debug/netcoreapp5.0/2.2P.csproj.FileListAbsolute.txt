@@ -1,0 +1,16 @@
+D:\zbi\OOP\2.2\bin\Debug\netcoreapp5.0\2.2P.exe
+D:\zbi\OOP\2.2\bin\Debug\netcoreapp5.0\2.2P.deps.json
+D:\zbi\OOP\2.2\bin\Debug\netcoreapp5.0\2.2P.runtimeconfig.json
+D:\zbi\OOP\2.2\bin\Debug\netcoreapp5.0\2.2P.runtimeconfig.dev.json
+D:\zbi\OOP\2.2\bin\Debug\netcoreapp5.0\2.2P.dll
+D:\zbi\OOP\2.2\bin\Debug\netcoreapp5.0\ref\2.2P.dll
+D:\zbi\OOP\2.2\bin\Debug\netcoreapp5.0\2.2P.pdb
+D:\zbi\OOP\2.2\obj\Debug\netcoreapp5.0\2.2P.csproj.AssemblyReference.cache
+D:\zbi\OOP\2.2\obj\Debug\netcoreapp5.0\2.2P.GeneratedMSBuildEditorConfig.editorconfig
+D:\zbi\OOP\2.2\obj\Debug\netcoreapp5.0\2.2P.AssemblyInfoInputs.cache
+D:\zbi\OOP\2.2\obj\Debug\netcoreapp5.0\2.2P.AssemblyInfo.cs
+D:\zbi\OOP\2.2\obj\Debug\netcoreapp5.0\2.2P.csproj.CoreCompileInputs.cache
+D:\zbi\OOP\2.2\obj\Debug\netcoreapp5.0\2.2P.dll
+D:\zbi\OOP\2.2\obj\Debug\netcoreapp5.0\ref\2.2P.dll
+D:\zbi\OOP\2.2\obj\Debug\netcoreapp5.0\2.2P.pdb
+D:\zbi\OOP\2.2\obj\Debug\netcoreapp5.0\2.2P.genruntimeconfig.cache

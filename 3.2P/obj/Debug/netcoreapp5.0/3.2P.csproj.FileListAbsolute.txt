@@ -1,0 +1,16 @@
+D:\zbi\OOP\3.2P\bin\Debug\netcoreapp5.0\3.2P.exe
+D:\zbi\OOP\3.2P\bin\Debug\netcoreapp5.0\3.2P.deps.json
+D:\zbi\OOP\3.2P\bin\Debug\netcoreapp5.0\3.2P.runtimeconfig.json
+D:\zbi\OOP\3.2P\bin\Debug\netcoreapp5.0\3.2P.runtimeconfig.dev.json
+D:\zbi\OOP\3.2P\bin\Debug\netcoreapp5.0\3.2P.dll
+D:\zbi\OOP\3.2P\bin\Debug\netcoreapp5.0\ref\3.2P.dll
+D:\zbi\OOP\3.2P\bin\Debug\netcoreapp5.0\3.2P.pdb
+D:\zbi\OOP\3.2P\obj\Debug\netcoreapp5.0\3.2P.GeneratedMSBuildEditorConfig.editorconfig
+D:\zbi\OOP\3.2P\obj\Debug\netcoreapp5.0\3.2P.AssemblyInfoInputs.cache
+D:\zbi\OOP\3.2P\obj\Debug\netcoreapp5.0\3.2P.AssemblyInfo.cs
+D:\zbi\OOP\3.2P\obj\Debug\netcoreapp5.0\3.2P.csproj.CoreCompileInputs.cache
+D:\zbi\OOP\3.2P\obj\Debug\netcoreapp5.0\3.2P.dll
+D:\zbi\OOP\3.2P\obj\Debug\netcoreapp5.0\ref\3.2P.dll
+D:\zbi\OOP\3.2P\obj\Debug\netcoreapp5.0\3.2P.pdb
+D:\zbi\OOP\3.2P\obj\Debug\netcoreapp5.0\3.2P.genruntimeconfig.cache
+D:\zbi\OOP\3.2P\obj\Debug\netcoreapp5.0\3.2P.csproj.AssemblyReference.cache

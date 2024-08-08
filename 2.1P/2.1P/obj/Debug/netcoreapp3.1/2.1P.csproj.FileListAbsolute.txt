@@ -1,0 +1,14 @@
+D:\zbi\OOP\2.1P\2.1P\obj\Debug\netcoreapp3.1\2.1P.GeneratedMSBuildEditorConfig.editorconfig
+D:\zbi\OOP\2.1P\2.1P\obj\Debug\netcoreapp3.1\2.1P.AssemblyInfoInputs.cache
+D:\zbi\OOP\2.1P\2.1P\obj\Debug\netcoreapp3.1\2.1P.AssemblyInfo.cs
+D:\zbi\OOP\2.1P\2.1P\obj\Debug\netcoreapp3.1\2.1P.csproj.CoreCompileInputs.cache
+D:\zbi\OOP\2.1P\2.1P\bin\Debug\netcoreapp3.1\2.1P.exe
+D:\zbi\OOP\2.1P\2.1P\bin\Debug\netcoreapp3.1\2.1P.deps.json
+D:\zbi\OOP\2.1P\2.1P\bin\Debug\netcoreapp3.1\2.1P.runtimeconfig.json
+D:\zbi\OOP\2.1P\2.1P\bin\Debug\netcoreapp3.1\2.1P.runtimeconfig.dev.json
+D:\zbi\OOP\2.1P\2.1P\bin\Debug\netcoreapp3.1\2.1P.dll
+D:\zbi\OOP\2.1P\2.1P\bin\Debug\netcoreapp3.1\2.1P.pdb
+D:\zbi\OOP\2.1P\2.1P\obj\Debug\netcoreapp3.1\2.1P.csproj.AssemblyReference.cache
+D:\zbi\OOP\2.1P\2.1P\obj\Debug\netcoreapp3.1\2.1P.dll
+D:\zbi\OOP\2.1P\2.1P\obj\Debug\netcoreapp3.1\2.1P.pdb
+D:\zbi\OOP\2.1P\2.1P\obj\Debug\netcoreapp3.1\2.1P.genruntimeconfig.cache

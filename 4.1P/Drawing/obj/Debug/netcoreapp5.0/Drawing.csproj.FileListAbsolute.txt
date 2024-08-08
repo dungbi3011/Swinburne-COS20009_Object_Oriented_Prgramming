@@ -1,0 +1,16 @@
+D:\zbi\OOP\4.1P\Drawing\bin\Debug\netcoreapp5.0\Drawing.exe
+D:\zbi\OOP\4.1P\Drawing\bin\Debug\netcoreapp5.0\Drawing.deps.json
+D:\zbi\OOP\4.1P\Drawing\bin\Debug\netcoreapp5.0\Drawing.runtimeconfig.json
+D:\zbi\OOP\4.1P\Drawing\bin\Debug\netcoreapp5.0\Drawing.runtimeconfig.dev.json
+D:\zbi\OOP\4.1P\Drawing\bin\Debug\netcoreapp5.0\Drawing.dll
+D:\zbi\OOP\4.1P\Drawing\bin\Debug\netcoreapp5.0\ref\Drawing.dll
+D:\zbi\OOP\4.1P\Drawing\bin\Debug\netcoreapp5.0\Drawing.pdb
+D:\zbi\OOP\4.1P\Drawing\obj\Debug\netcoreapp5.0\Drawing.csproj.AssemblyReference.cache
+D:\zbi\OOP\4.1P\Drawing\obj\Debug\netcoreapp5.0\Drawing.GeneratedMSBuildEditorConfig.editorconfig
+D:\zbi\OOP\4.1P\Drawing\obj\Debug\netcoreapp5.0\Drawing.AssemblyInfoInputs.cache
+D:\zbi\OOP\4.1P\Drawing\obj\Debug\netcoreapp5.0\Drawing.AssemblyInfo.cs
+D:\zbi\OOP\4.1P\Drawing\obj\Debug\netcoreapp5.0\Drawing.csproj.CoreCompileInputs.cache
+D:\zbi\OOP\4.1P\Drawing\obj\Debug\netcoreapp5.0\Drawing.dll
+D:\zbi\OOP\4.1P\Drawing\obj\Debug\netcoreapp5.0\ref\Drawing.dll
+D:\zbi\OOP\4.1P\Drawing\obj\Debug\netcoreapp5.0\Drawing.pdb
+D:\zbi\OOP\4.1P\Drawing\obj\Debug\netcoreapp5.0\Drawing.genruntimeconfig.cache

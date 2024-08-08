@@ -1,0 +1,14 @@
+D:\zbi\OOP\3.3P\3.3P\bin\Debug\netcoreapp3.1\3.3P.exe
+D:\zbi\OOP\3.3P\3.3P\bin\Debug\netcoreapp3.1\3.3P.deps.json
+D:\zbi\OOP\3.3P\3.3P\bin\Debug\netcoreapp3.1\3.3P.runtimeconfig.json
+D:\zbi\OOP\3.3P\3.3P\bin\Debug\netcoreapp3.1\3.3P.runtimeconfig.dev.json
+D:\zbi\OOP\3.3P\3.3P\bin\Debug\netcoreapp3.1\3.3P.dll
+D:\zbi\OOP\3.3P\3.3P\bin\Debug\netcoreapp3.1\3.3P.pdb
+D:\zbi\OOP\3.3P\3.3P\obj\Debug\netcoreapp3.1\3.3P.csproj.AssemblyReference.cache
+D:\zbi\OOP\3.3P\3.3P\obj\Debug\netcoreapp3.1\3.3P.GeneratedMSBuildEditorConfig.editorconfig
+D:\zbi\OOP\3.3P\3.3P\obj\Debug\netcoreapp3.1\3.3P.AssemblyInfoInputs.cache
+D:\zbi\OOP\3.3P\3.3P\obj\Debug\netcoreapp3.1\3.3P.AssemblyInfo.cs
+D:\zbi\OOP\3.3P\3.3P\obj\Debug\netcoreapp3.1\3.3P.csproj.CoreCompileInputs.cache
+D:\zbi\OOP\3.3P\3.3P\obj\Debug\netcoreapp3.1\3.3P.dll
+D:\zbi\OOP\3.3P\3.3P\obj\Debug\netcoreapp3.1\3.3P.pdb
+D:\zbi\OOP\3.3P\3.3P\obj\Debug\netcoreapp3.1\3.3P.genruntimeconfig.cache

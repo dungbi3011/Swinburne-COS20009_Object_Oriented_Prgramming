@@ -1,0 +1,13 @@
+﻿using SwinAdventure.Abstract;
+
+namespace SwinAdventure
+{
+    public class Item : Game_Object
+    {
+
+        public Item(string[] idents, string name, string desc) : base(name, desc, idents)
+        {
+
+        }
+    }
+}
